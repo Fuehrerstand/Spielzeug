@@ -13,8 +13,11 @@ Führerstand://Reichskanzlei/Spielzeug:~# ./meinKampf Musik.mp3 Melodien-fuer-Mi
 
 Die Ordner Spielzeug und WiW müssen im selben Verzeichnis liegen. Alternativ die Pfade in "meinKampf" anpassen...
 
-# Ich wünsche Euch totalen Unterhaltungswert mit den sich Euch offenbarenden Bildungsangeboten!
+# Ich wünsche Euch totalen Unterhaltungswert
+# mit den sich Euch offenbarenden Bildungsangeboten!
 
+Die Demo-Szene demonstriert - im Sinne von zeigen - was es neben Schlager und volkstümlicher Musik sonst noch gibt.
 
+Regulär findet Ihr den geilen Scheiss auf ftp://ftp.scene.org/pub/parties/ ;)
 
-
+Was ich mache ist ausserhalb der geistigen Normen, die sonst üblich sind.
