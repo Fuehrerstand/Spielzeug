@@ -4,6 +4,9 @@ Das Spielzeug zur Show!
 
 # 1 Volk - 1 Reich - 1 Spielzeug
 
+#~ chmod +x Spielzeug
+#~ ./Spielzeug Musik.mp3 Melodien-für-Millionen
+
 Das Spielzeug ermöglicht Euch Spracherkennung aus beliebigen Audio-Streams. 
 Es ist dabei nicht erforderlich, dass menschliche Sprache enthalten ist. Ihr könnt also auch ein Instrumentalkonzert oder quakende Frösche vom Teich verfüttern.
 
